@@ -1,4 +1,4 @@
-# Customer Segmentation Using RFM Matrix Technique
+# Customer Segmentation Using RFM Matrix Technique and K Means Algorithm
 ## Analysis of E-commerce data of different countries in order to understand the need of markets and 
 customer segmentation in order to identify best customers
 
@@ -16,7 +16,7 @@ unique all-occasion gifts. Many customers of the company are wholesalers.
 ## Approach :
 
 In this dataset, I performed Exploratory Data Analysis(EDA) on dataset by which I visualized different parameters of dataset. 
-Then, I used RFM Matrix technique to identify the best customers.
+Then, I used RFM Matrix technique and K Means Algorithm to identify the best customers.
 
 ## Results :
 
