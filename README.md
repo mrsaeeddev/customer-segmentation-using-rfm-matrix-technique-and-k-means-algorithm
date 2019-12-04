@@ -1,6 +1,5 @@
 # Customer Segmentation Using RFM Matrix Technique and K Means Algorithm
-## Analysis of E-commerce data of different countries in order to understand the need of markets and 
-customer segmentation in order to identify best customers
+## Analysis of E-commerce data of different countries in order to understand the need of markets and customer segmentation in order to identify best customers
 
 ## Dataset:
 
